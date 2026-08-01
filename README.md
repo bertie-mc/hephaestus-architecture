@@ -1,5 +1,9 @@
 # Bertie Hephaestus Architecture
 
+> [!IMPORTANT]
+> Development has moved to the [`bertie` monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/hephaestus-architecture).
+> This repository is retained read-only for historical tags, releases, and issues.
+
 NeoForge 1.21.1 addon for Forbidden & Arcanus 2.6.1. It makes the
 Hephaestus Forge multiblock and its usable pedestal positions depend on the
 forge tier.
